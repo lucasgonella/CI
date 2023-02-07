@@ -35,5 +35,5 @@ jobs:
         # Push is a shorthand for --output=type=registry
         push: true
         # List of tags
-        tags: gonella20/go_ci:{{github.ref_name}}
+        tags: gonella20/go_ci:1.0
 
